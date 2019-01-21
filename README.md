@@ -1,5 +1,7 @@
 # kafka-for-mac
 
+
+
 For those who use macOS and docker, it can be quite challenging to get several Confluent Kafka components up and running. Support for Docker on macOS / Windows is not yet available as per Confluent. This repo is an attempt to remove the uncertainty and let people experiment with Confluent Kafka faster. Here are some references for you to understand why this challenging
 
 [I can't connect to Kafka on OS X](https://github.com/confluentinc/cp-docker-images/issues/265)
